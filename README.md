@@ -1,2 +1,101 @@
 # 2025-DongA-DataAI-2-
-텍스트마이닝 기반 반려견 성향 맞춤 매칭 서비스 
+텍스트마이닝 기반 반려견 성향 맞춤 매칭 서비스 (팀명 : 개발새발) 
+
+<img width="764" height="427" alt="ppt 디자인" src="https://github.com/user-attachments/assets/abc82a1f-225c-4cfe-9a13-3f2fe72bf272" />
+
+
+# 서비스 소개 
+- 완전한 입력형 반려견 성향 테스트
+- 개별화 된 반려생활 통합 서비스 제공
+- 파편화된 정보를 정제해 정확한 정보를 제공 
+
+# 프로젝트 기간 
+2026.03.16 ~ 2026.03.27 (2주) 
+
+# 주요기능 
+
+# 기술스택 
+<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/7c073dff-a65a-46b0-9a22-2e0ae71747f4" />
+<table>
+    <tr>
+        <th>구분</th>
+        <th>내용</th>
+    </tr>
+    <tr>
+        <td>사용언어</td>
+        <td>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>라이브러리</td>
+        <td>
+            <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
+            <img src="https://img.shields.io/badge/KakaoMap-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>개발도구</td>
+        <td>
+            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+            <img src="https://img.shields.io/badge/RaskpberryPi-A22846?style=for-the-badge&logo=RaskpberryPi&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+            <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>서버환경</td>
+        <td>
+            <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>데이터베이스</td>
+        <td>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
+        <td>협업도구</td>
+        <td>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+        </td>
+    </tr>
+</table>
+
+
+<br>
+
+
+# 시스템 아키텍처 
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/5860b68f-74bd-4b2d-a4a9-3a40368f63f7" />
+
+
+# 유스케이스 
+<img width="811" height="619" alt="KakaoTalk_20260327_174113860" src="https://github.com/user-attachments/assets/b71ff50b-1144-4eab-84c3-34ac0ff9426a" />
+
+
+# 서비스 흐름도
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/d96b36d9-a777-4408-ab4a-13aefedb9395" />
+
+
+# E-R 다이어그램 
+
+<img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/ac1bc5d8-5cd6-490e-8850-f69219b7f335" />
+
+
+
+# 화면구성 
+
+
+
+# 팀원역할 
+
+# 트러블슈팅 
+
+
